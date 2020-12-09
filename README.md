@@ -1,1 +1,1 @@
-# HTML-CSS-Course-basic-web-pages
+# HTML-CSS-Course
